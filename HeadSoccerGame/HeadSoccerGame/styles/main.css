@@ -1,0 +1,82 @@
+input[type=number]{
+	height: 3rem;
+    font-size: 1.3rem;
+    font-weight: bold;
+    width: 3rem;
+    text-align: center;
+}
+
+.title{
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: Arial Black; 
+	font-weight: bold; 
+	font-size: 60px; 
+	color: rgb(62, 25, 194); 
+	text-shadow: 0 1px 0 rgb(255, 101, 101), 0 2px 0 rgb(255, 101, 101), 0 3px 0 rgb(255, 101, 101), 0 4px 0 rgb(255, 101, 101), 0 5px 0 rgb(255, 101, 101), 0 6px 1px rgba(0,0,0,0.1), 0 0 5px rgba(0,0,0,0.1), 0 1px 3px rgba(0,0,0,0.3), 0 3px 5px rgba(0,0,0,0.2), 0 5px 10px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.2), 0 20px 20px rgba(0,0,0,0.15);
+}
+
+.menu-object{
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 300px;
+	height: 75px;
+	font-size: 16px;
+	margin-top: 10px;
+	background-color: rgb(106, 79, 204);
+	border: 4px solid #ff1008;
+	border-radius: 20px;
+	
+}
+
+
+
+.Logo{
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.Logo:hover{
+	
+	animation: animacioRotacio 1s linear reverse infinite;
+}
+
+@keyframes animacioRotacio {
+	0%   { transform: rotate(0deg);}
+	100% { transform: rotate(360deg);}
+}
+
+
+p{
+	text-align: center;
+}
+
+body {
+	background-color: rgb(174, 171, 217);
+}
+
+button.menu-object:active{
+	font-size: 18px;
+	width: 275px;
+	height: 70px;
+	
+}
+
+button.menu-object:hover:not(:active){
+	font-size: 22px;
+	width: 325px;
+	height: 85px;
+	background-color: rgb(236, 108, 108);
+	border: 4px solid #4e4caf;
+}
+
+.button-player{
+	font-size: 18px;
+	width: 200px;
+	height: 200px;
+	border: 4px solid #4e4caf;
+
+}

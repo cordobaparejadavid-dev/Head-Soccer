@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="SpriteQuieto.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.3235292"
+     inkscape:cx="186.62225"
+     inkscape:cy="812.60013"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="12.993983,190.24943"
+       orientation="1,0"
+       id="guide1581" />
+    <sodipodi:guide
+       position="71.566863,206.04212"
+       orientation="0,-1"
+       id="guide1583" />
+    <sodipodi:guide
+       position="63.570562,157.66452"
+       orientation="1,0"
+       id="guide1585" />
+    <sodipodi:guide
+       position="68.36834,157.66452"
+       orientation="0,-1"
+       id="guide1587" />
+    <sodipodi:guide
+       position="68.36834,106.50188"
+       orientation="0,-1"
+       id="guide1793" />
+    <sodipodi:guide
+       position="12.993986,31.123139"
+       orientation="0,-1"
+       id="guide2022" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2667"
+       inkscape:export-filename="C:\Users\David\Documents\GitHub\Bar-aSimulator\resources\pGran.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#ffffff;stroke-width:0.772563;stroke-linejoin:round"
+         id="rect2494"
+         width="50.57658"
+         height="50.404343"
+         x="12.993983"
+         y="88.931137" />
+      <g
+         id="g1689"
+         transform="matrix(0.72701149,0,0,0.88160294,4.1784535,5.4967468)">
+        <path
+           style="fill:#ff0000;stroke:#000000;stroke-width:0.993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 39.295236,148.84984 37.604183,0.0177 c 0.900227,-11.67048 -6.625902,-9.10859 -12.378111,-11.3948 -6.476988,-2.57428 -15.672428,-4.69104 -21.38037,-1.10272 -4.037,2.53788 -3.845702,12.47979 -3.845702,12.47979 z"
+           id="path980"
+           sodipodi:nodetypes="ccssc" />
+        <g
+           id="g2108"
+           transform="translate(2.3988892)">
+          <rect
+             style="fill:#ff9955;stroke:#000000;stroke-width:0.76254;stroke-linejoin:round"
+             id="rect846"
+             width="42.833599"
+             height="37.603519"
+             x="31.503508"
+             y="96.938354"
+             ry="11.660007" />
+          <ellipse
+             style="fill:#f9f9f9;stroke:#000000;stroke-width:0.993;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             id="path1942"
+             cx="62.071259"
+             cy="112.34798"
+             rx="2.8986578"
+             ry="6.3970375" />
+          <ellipse
+             style="fill:#000000;stroke:#000000;stroke-width:0.55449;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             id="ellipse2046"
+             cx="63.020821"
+             cy="113.74294"
+             rx="1.618607"
+             ry="3.572098" />
+          <ellipse
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.133345;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             id="ellipse2066"
+             cx="63.770473"
+             cy="114.9174"
+             rx="0.38924545"
+             ry="0.85902441" />
+        </g>
+      </g>
+      <rect
+         style="fill:#000000;stroke-width:0.65936;stroke-linejoin:round"
+         id="rect1009"
+         width="9.426033"
+         height="2.3900499"
+         x="17.068661"
+         y="96.429573" />
+    </g>
+    <g
+       id="g2647"
+       inkscape:export-filename="C:\Users\David\Documents\GitHub\Bar-aSimulator\resources\pMitja.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#ffffff;stroke-width:0.778353;stroke-linejoin:round"
+         id="rect2379"
+         width="50.57658"
+         height="51.16264"
+         x="12.993983"
+         y="139.33548" />
+      <path
+         style="fill:#ff0000;stroke:#000000;stroke-width:0.667528;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 36.257115,183.70431 22.784962,0.0132 c 0.545462,-8.70398 -4.014732,-6.7933 -7.50009,-8.49838 -3.924503,-1.91993 -9.496166,-3.49863 -12.954691,-0.82241 -2.446081,1.89277 -2.330181,9.30756 -2.330181,9.30756 z"
+         id="path919"
+         sodipodi:nodetypes="ccssc" />
+      <g
+         id="g929"
+         transform="matrix(0.60591545,0,0,0.74581092,13.901055,72.690474)">
+        <rect
+           style="fill:#ff9955;stroke:#000000;stroke-width:0.76254;stroke-linejoin:round"
+           id="rect921"
+           width="42.833599"
+           height="37.603519"
+           x="31.503508"
+           y="96.938354"
+           ry="11.660007" />
+        <ellipse
+           style="fill:#f9f9f9;stroke:#000000;stroke-width:0.993;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse923"
+           cx="62.071259"
+           cy="112.34798"
+           rx="2.8986578"
+           ry="6.3970375" />
+        <ellipse
+           style="fill:#000000;stroke:#000000;stroke-width:0.55449;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse925"
+           cx="63.020821"
+           cy="113.74294"
+           rx="1.618607"
+           ry="3.572098" />
+        <ellipse
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.133345;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse927"
+           cx="63.770473"
+           cy="114.9174"
+           rx="0.38924545"
+           ry="0.85902441" />
+      </g>
+      <rect
+         style="fill:#000000;stroke-width:0.664301;stroke-linejoin:round"
+         id="rect2104"
+         width="9.426033"
+         height="2.4260063"
+         x="17.794186"
+         y="145.24693" />
+      <rect
+         style="fill:#000000;stroke-width:0.664301;stroke-linejoin:round"
+         id="rect2106"
+         width="9.426033"
+         height="2.4260063"
+         x="17.503515"
+         y="154.37035" />
+    </g>
+    <g
+       id="g2691"
+       inkscape:export-filename="C:\Users\David\Documents\GitHub\Bar-aSimulator\resources\pBaix.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#ffffff;stroke-width:0.783091;stroke-linejoin:round"
+         id="rect2160"
+         width="50.57658"
+         height="51.787453"
+         x="12.993983"
+         y="190.49812" />
+      <path
+         style="fill:#ff0000;stroke:#000000;stroke-width:0.587027;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 38.21979,232.58574 19.915971,0.0117 c 0.476782,-7.7009 -3.509219,-6.01041 -6.55571,-7.51899 -3.430345,-1.69868 -8.300443,-3.09544 -11.323495,-0.72764 -2.138082,1.67464 -2.036766,8.23494 -2.036766,8.23494 z"
+         id="path931"
+         sodipodi:nodetypes="ccssc" />
+      <g
+         id="g941"
+         transform="matrix(0.52962093,0,0,0.65986266,18.678717,134.36529)">
+        <rect
+           style="fill:#ff9955;stroke:#000000;stroke-width:0.76254;stroke-linejoin:round"
+           id="rect933"
+           width="42.833599"
+           height="37.603519"
+           x="31.503508"
+           y="96.938354"
+           ry="11.660007" />
+        <ellipse
+           style="fill:#f9f9f9;stroke:#000000;stroke-width:0.993;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse935"
+           cx="62.071259"
+           cy="112.34798"
+           rx="2.8986578"
+           ry="6.3970375" />
+        <ellipse
+           style="fill:#000000;stroke:#000000;stroke-width:0.55449;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse937"
+           cx="63.020821"
+           cy="113.74294"
+           rx="1.618607"
+           ry="3.572098" />
+        <ellipse
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.133345;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse939"
+           cx="63.770473"
+           cy="114.9174"
+           rx="0.38924545"
+           ry="0.85902441" />
+      </g>
+      <rect
+         style="fill:#000000;stroke-width:0.668345;stroke-linejoin:round"
+         id="rect2108"
+         width="9.426034"
+         height="2.4556341"
+         x="19.828875"
+         y="193.93436" />
+      <rect
+         style="fill:#000000;stroke-width:0.668345;stroke-linejoin:round"
+         id="rect2110"
+         width="9.426034"
+         height="2.4556341"
+         x="19.247536"
+         y="212.40401" />
+      <rect
+         style="fill:#000000;stroke-width:0.668345;stroke-linejoin:round"
+         id="rect2112"
+         width="9.426034"
+         height="2.4556341"
+         x="19.538204"
+         y="203.16917" />
+      <rect
+         style="fill:#000000;stroke-width:0.668345;stroke-linejoin:round"
+         id="rect2114"
+         width="9.426034"
+         height="2.4556341"
+         x="19.247536"
+         y="212.40401" />
+    </g>
+  </g>
+</svg>
